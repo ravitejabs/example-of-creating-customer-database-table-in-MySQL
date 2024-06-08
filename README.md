@@ -1,0 +1,1 @@
+# example-of-creating-customer-database-table-in-MySQL
